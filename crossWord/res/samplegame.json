@@ -1,0 +1,3697 @@
+[{
+  "characters": [
+    ["S", " ", "H", " ", " ", "C", "O", "P", "P", "E", "R"],
+    ["O", "V", "A", "L", " ", "O", " ", "A", " ", " ", " "],
+    ["L", " ", "U", " ", "A", "M", "P", "L", "I", "F", "Y"],
+    ["I", " ", "L", " ", " ", "M", " ", "E", " ", " ", " "],
+    ["C", " ", " ", "D", " ", "I", " ", " ", "D", "I", "P"],
+    ["I", "N", "S", "E", "C", "T", " ", " ", "E", " ", "A"],
+    ["T", " ", " ", "V", " ", " ", "N", " ", "F", "A", "R"],
+    ["O", "T", "H", "E", "R", " ", "A", " ", "R", " ", "T"],
+    ["R", " ", " ", "L", " ", "E", "C", "H", "O", " ", "I"],
+    [" ", " ", " ", "O", " ", " ", "H", " ", "S", "E", "A"],
+    ["S", "C", "A", "P", "E", "G", "O", "A", "T", " ", "L"]
+  ],
+  "numbers": [
+    [1, 0, 2, 0, 0, 3, 0, 4, 0, 0, 0],
+    [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 7, 0, 0, 0, 0, 8, 0, 9],
+    [10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 11, 0, 12, 0, 0],
+    [13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 14, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 15, 0, 0],
+    [16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ],
+  "clues": [{
+    "number": 1,
+    "clue": "One who sells",
+    "word": "SOLICITOR",
+    "direction": "Down"
+  }, {
+    "number": 2,
+    "clue": "One who sells",
+    "word": "HAUL",
+    "direction": "Down"
+  }, {
+    "number": 3,
+    "clue": "Pennies and Pots",
+    "word": "COPPER",
+    "direction": "Across"
+  }, {
+    "number": 3,
+    "clue": "Make a decision",
+    "word": "COMMIT",
+    "direction": "Down"
+  }, {
+    "number": 4,
+    "clue": "Horse or Ale",
+    "word": "PALE",
+    "direction": "Down"
+  }, {
+    "number": 5,
+    "clue": "Egg shaped",
+    "word": "OVAL",
+    "direction": "Across"
+  }, {
+    "number": 6,
+    "clue": "Make louder",
+    "word": "AMPLIFY",
+    "direction": "Across"
+  }, {
+    "number": 7,
+    "clue": "Polaroids do this instantly",
+    "word": "DEVELOP",
+    "direction": "Down"
+  }, {
+    "number": 8,
+    "clue": "Take one in the pool",
+    "word": "DIP",
+    "direction": "Across"
+  }, {
+    "number": 8,
+    "clue": "Get to room temperature",
+    "word": "DEFROST",
+    "direction": "Down"
+  }, {
+    "number": 9,
+    "clue": "Incomplete",
+    "word": "PARTIAL",
+    "direction": "Down"
+  }, {
+    "number": 10,
+    "clue": "Household pests",
+    "word": "INSECT",
+    "direction": "Across"
+  }, {
+    "number": 11,
+    "clue": "Type of cheese",
+    "word": "NACHO",
+    "direction": "Down"
+  }, {
+    "number": 12,
+    "clue": "Long distance",
+    "word": "FAR",
+    "direction": "Across"
+  }, {
+    "number": 13,
+    "clue": "Not this one",
+    "word": "OTHER",
+    "direction": "Across"
+  }, {
+    "number": 14,
+    "clue": "Repeat Repeat Repeat",
+    "word": "ECHO",
+    "direction": "Across"
+  }, {
+    "number": 15,
+    "clue": "Ocean",
+    "word": "SEA",
+    "direction": "Across"
+  }, {
+    "number": 16,
+    "clue": "Takes the blame",
+    "word": "SCAPEGOAT",
+    "direction": "Across"
+  }],
+  "matchWord": {
+    "word": "STRAWBERRY",
+    "count": 4,
+    "grid": [
+      [0, -1, -1, -1, -1, 1, -1, -1, -1, -1, 2],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1, 3, -1, -1, -1, -1, -1, -1],
+      [-1, -1, 4, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1, -1, -1, -1, -1, 5, -1, -1],
+      [6, -1, -1, -1, -1, -1, 7, -1, -1, -1, 8],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [9, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+    ]
+  }
+}, {
+  "characters": [
+    ["W", " ", "A", "S", "H", " ", " ", "U", " ", " ", " "],
+    ["A", "N", "D", " ", "O", "Z", "O", "N", "E", " ", "E"],
+    ["L", " ", "U", " ", "P", " ", " ", "C", " ", " ", "R"],
+    ["L", " ", "L", " ", " ", "B", " ", "E", " ", " ", "T"],
+    ["P", "U", "T", " ", "B", "O", "A", "R", "D", " ", " "],
+    ["A", " ", " ", "B", " ", "T", " ", "T", " ", " ", "C"],
+    ["P", " ", "G", "U", "S", "T", " ", "A", " ", " ", "A"],
+    ["E", " ", " ", "R", " ", "L", " ", "I", " ", " ", "L"],
+    ["R", "I", "C", "E", " ", "E", " ", "N", " ", "B", " "],
+    [" ", " ", " ", "A", " ", " ", " ", " ", "H", "A", "M"],
+    ["S", "U", "B", "U", "R", "B", "A", "N", " ", "R", " "]
+  ],
+  "numbers": [
+    [1, 0, 2, 0, 3, 0, 0, 4, 0, 0, 5],
+    [6, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 8, 0, 0, 0, 0, 0],
+    [9, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 11, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 12, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [13, 0, 0, 0, 0, 0, 0, 0, 0, 14, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 15, 0, 0],
+    [16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ],
+  "clues": [{
+    "number": 1,
+    "clue": "Alternative to paint",
+    "word": "WALLPAPER",
+    "direction": "Down"
+  }, {
+    "number": 2,
+    "clue": "Left behind after a fire",
+    "word": "ASH",
+    "direction": "Across"
+  }, {
+    "number": 2,
+    "clue": "A grown up",
+    "word": "ADULT",
+    "direction": "Down"
+  }, {
+    "number": 3,
+    "clue": "Bunny dance",
+    "word": "HOP",
+    "direction": "Down"
+  }, {
+    "number": 4,
+    "clue": "Not sure",
+    "word": "UNCERTAIN",
+    "direction": "Down"
+  }, {
+    "number": 5,
+    "clue": "Up and down",
+    "word": "VERTICAL",
+    "direction": "Down"
+  }, {
+    "number": 6,
+    "clue": "In addition to",
+    "word": "AND",
+    "direction": "Across"
+  }, {
+    "number": 7,
+    "clue": "Protection from harmful sun",
+    "word": "OZONE",
+    "direction": "Across"
+  }, {
+    "number": 8,
+    "clue": "Vessel for your shampoo, beer or soda",
+    "word": "BOTTLE",
+    "direction": "Down"
+  }, {
+    "number": 9,
+    "clue": "To place",
+    "word": "PUT",
+    "direction": "Across"
+  }, {
+    "number": 10,
+    "clue": "A group of executives that make decisions for a company",
+    "word": "BOARD",
+    "direction": "Across"
+  }, {
+    "number": 11,
+    "clue": "A department of an agency or a dresser",
+    "word": "BUREAU",
+    "direction": "Down"
+  }, {
+    "number": 12,
+    "clue": "Strong breeze",
+    "word": "GUST",
+    "direction": "Across"
+  }, {
+    "number": 13,
+    "clue": "Flavorless cakes",
+    "word": "RICE",
+    "direction": "Across"
+  }, {
+    "number": 14,
+    "clue": "Exam you must pass to practice law",
+    "word": "BAR",
+    "direction": "Down"
+  }, {
+    "number": 15,
+    "clue": "Type of radio or lunchmeat",
+    "word": "HAM",
+    "direction": "Across"
+  }, {
+    "number": 16,
+    "clue": "City adjacent neighborhoods",
+    "word": "SUBURBAN",
+    "direction": "Across"
+  }],
+  "seed": 1601399126356,
+  "matchWord": {
+    "word": "BRICKCLAYS",
+    "count": 6,
+    "grid": [
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1, -1, -1, -1, 5, -1, -1, -1],
+      [6, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, 3, -1, -1, -1, -1, -1, -1, -1, 2],
+      [7, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 8],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [9, -1, -1, -1, 4, -1, -1, 1, -1, -1, -1]
+    ]
+  }
+}, {
+  "characters": [
+    ["S", "U", "N", " ", "I", " ", "B", " ", "B", " ", "E"],
+    ["U", " ", "O", "U", "N", "C", "E", " ", "R", " ", "X"],
+    ["B", " ", "C", " ", "G", " ", "E", " ", "O", " ", "P"],
+    ["M", " ", "T", "I", "E", " ", "H", " ", "T", " ", "E"],
+    ["A", " ", "U", " ", "N", " ", "I", " ", "H", " ", "D"],
+    ["R", " ", "R", " ", "I", " ", "V", " ", "E", " ", "I"],
+    ["I", " ", "N", " ", "O", " ", "E", "A", "R", " ", "T"],
+    ["N", " ", "A", " ", "U", " ", " ", "W", " ", " ", "E"],
+    ["E", " ", "L", " ", "S", "P", "L", "A", "S", "H", " "],
+    [" ", " ", " ", " ", " ", " ", " ", "R", " ", "O", " "],
+    ["W", "O", "R", "K", "L", "O", "A", "D", " ", "T", " "]
+  ],
+  "numbers": [
+    [1, 0, 2, 0, 3, 0, 4, 0, 5, 0, 6],
+    [0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 9, 10, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 11, 0, 0, 0, 0, 12, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ],
+  "clues": [{
+    "number": 1,
+    "clue": "A very important star",
+    "word": "SUN",
+    "direction": "Across"
+  }, {
+    "number": 1,
+    "clue": "Underwater vessel",
+    "word": "SUBMARINE",
+    "direction": "Down"
+  }, {
+    "number": 2,
+    "clue": "Up at night",
+    "word": "NOCTURNAL",
+    "direction": "Down"
+  }, {
+    "number": 3,
+    "clue": "Brilliant",
+    "word": "INGENIOUS",
+    "direction": "Down"
+  }, {
+    "number": 4,
+    "clue": "Dangerous place to get honey",
+    "word": "BEEHIVE",
+    "direction": "Down"
+  }, {
+    "number": 5,
+    "clue": "Sibling",
+    "word": "BROTHER",
+    "direction": "Down"
+  }, {
+    "number": 6,
+    "clue": "Get done quickly",
+    "word": "EXPEDITE",
+    "direction": "Down"
+  }, {
+    "number": 7,
+    "clue": "Measure of weight",
+    "word": "OUNCE",
+    "direction": "Across"
+  }, {
+    "number": 8,
+    "clue": "Neck, cable or railroad",
+    "word": "TIE",
+    "direction": "Across"
+  }, {
+    "number": 9,
+    "clue": "Of corn or to hear",
+    "word": "EAR",
+    "direction": "Across"
+  }, {
+    "number": 10,
+    "clue": "Something you get when you win",
+    "word": "AWARD",
+    "direction": "Down"
+  }, {
+    "number": 11,
+    "clue": "When a rock hits the lake",
+    "word": "SPLASH",
+    "direction": "Across"
+  }, {
+    "number": 12,
+    "clue": "Spicy",
+    "word": "HOT",
+    "direction": "Down"
+  }, {
+    "number": 13,
+    "clue": "Full tasklist",
+    "word": "WORKLOAD",
+    "direction": "Across"
+  }],
+  "seed": 1601399128412,
+  "matchWord": {
+    "word": "SMUGGLINGS",
+    "count": 6,
+    "grid": [
+      [0, 7, 9, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, 2, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1, 3, -1, -1, -1, -1, -1, -1],
+      [1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 6],
+      [-1, -1, -1, -1, -1, -1, -1, -1, 4, -1, -1],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, 5, -1, -1, -1, -1, 8, -1, -1, -1],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+    ]
+  }
+}, {
+  "characters": [
+    ["D", "U", "B", " ", "P", "A", "R", " ", "L", " ", "I"],
+    ["E", " ", "I", " ", "O", " ", "A", "W", "E", " ", "N"],
+    [
+      "L",
+      " ",
+      "O",
+      "A",
+      "R",
+      " ",
+      "N",
+      " ",
+      "G",
+      " ",
+      "C"
+    ],
+    [
+      "I",
+      " ",
+      "G",
+      " ",
+      "T",
+      " ",
+      "D",
+      " ",
+      "A",
+      " ",
+      "I"
+    ],
+    [
+      "C",
+      "A",
+      "R",
+      " ",
+      "F",
+      " ",
+      "O",
+      " ",
+      "C",
+      " ",
+      "D"
+    ],
+    [
+      "I",
+      " ",
+      "A",
+      " ",
+      "O",
+      " ",
+      "M",
+      "A",
+      "Y",
+      " ",
+      "E"
+    ],
+    [
+      "O",
+      " ",
+      "P",
+      "A",
+      "L",
+      "M",
+      " ",
+      "N",
+      " ",
+      " ",
+      "N"
+    ],
+    [
+      "U",
+      " ",
+      "H",
+      " ",
+      "I",
+      " ",
+      " ",
+      "T",
+      " ",
+      " ",
+      "T"
+    ],
+    [
+      "S",
+      "A",
+      "Y",
+      " ",
+      "O",
+      "V",
+      "A",
+      "L",
+      " ",
+      "L",
+      " "
+    ],
+    [
+      " ",
+      "S",
+      " ",
+      " ",
+      " ",
+      " ",
+      "C",
+      "E",
+      "D",
+      "A",
+      "R"
+    ],
+    [
+      "S",
+      "H",
+      "O",
+      "U",
+      "L",
+      "D",
+      "E",
+      "R",
+      " ",
+      "G",
+      " "
+    ]
+  ],
+  "numbers": [
+    [
+      1,
+      0,
+      2,
+      0,
+      3,
+      0,
+      4,
+      0,
+      5,
+      0,
+      6
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      7,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      8,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      9,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      10,
+      11,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      12,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      13,
+      14,
+      0,
+      0,
+      15,
+      0,
+      16,
+      0,
+      0,
+      17,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      18,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      19,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "clues": [{
+    "number": 1,
+    "clue": "To record new audio over",
+    "word": "DUB",
+    "direction": "Across"
+  }, {
+    "number": 1,
+    "clue": "Yummy",
+    "word": "DELICIOUS",
+    "direction": "Down"
+  }, {
+    "number": 2,
+    "clue": "A book detailing someone\u0027s life",
+    "word": "BIOGRAPHY",
+    "direction": "Down"
+  }, {
+    "number": 3,
+    "clue": "Average",
+    "word": "PAR",
+    "direction": "Across"
+  }, {
+    "number": 3,
+    "clue": "A collection of work",
+    "word": "PORTFOLIO",
+    "direction": "Down"
+  }, {
+    "number": 4,
+    "clue": "Arbitrary",
+    "word": "RANDOM",
+    "direction": "Down"
+  }, {
+    "number": 5,
+    "clue": "Of historical importance",
+    "word": "LEGACY",
+    "direction": "Down"
+  }, {
+    "number": 6,
+    "clue": "A situation that is usually bad",
+    "word": "INCIDENT",
+    "direction": "Down"
+  }, {
+    "number": 7,
+    "clue": "Stunned amazement",
+    "word": "AWE",
+    "direction": "Across"
+  }, {
+    "number": 8,
+    "clue": "A paddle",
+    "word": "OAR",
+    "direction": "Across"
+  }, {
+    "number": 9,
+    "clue": "It has a horn, a trunk and can be any color",
+    "word": "CAR",
+    "direction": "Across"
+  }, {
+    "number": 10,
+    "clue": "Late spring",
+    "word": "MAY",
+    "direction": "Across"
+  }, {
+    "number": 11,
+    "clue": "Hunters use these to decorate after killing a deer",
+    "word": "ANTLER",
+    "direction": "Down"
+  }, {
+    "number": 12,
+    "clue": "A leaf or center of hand",
+    "word": "PALM",
+    "direction": "Across"
+  }, {
+    "number": 13,
+    "clue": "SAY",
+    "word": "SAY",
+    "direction": "Across"
+  }, {
+    "number": 14,
+    "clue": "Left behind after a fire",
+    "word": "ASH",
+    "direction": "Down"
+  }, {
+    "number": 15,
+    "clue": "OVAL",
+    "word": "OVAL",
+    "direction": "Across"
+  }, {
+    "number": 16,
+    "clue": "High card",
+    "word": "ACE",
+    "direction": "Down"
+  }, {
+    "number": 17,
+    "clue": "LAG",
+    "word": "LAG",
+    "direction": "Down"
+  }, {
+    "number": 18,
+    "clue": "Wood with natural bug repellent",
+    "word": "CEDAR",
+    "direction": "Across"
+  }, {
+    "number": 19,
+    "clue": "SHOULDER",
+    "word": "SHOULDER",
+    "direction": "Across"
+  }],
+  "seed": 1601399129695,
+  "matchWord": {
+    "word": "UNRETURNED",
+    "count": 7,
+    "grid": [
+      [-1, -1, -1, -1,
+        6, -1,
+        2, -1, -1, -1, -1
+      ],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+        7
+      ],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+        8
+      ],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+        1
+      ],
+      [
+        0, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+        4
+      ],
+      [-1, -1,
+        5, -1, -1, -1, -1, -1, -1, -1, -1
+      ],
+      [-1, -1, -1, -1, -1, -1, -1, -1,
+        9, -1, -1
+      ],
+      [-1, -1, -1, -1,
+        3, -1, -1, -1, -1, -1, -1
+      ]
+    ]
+  }
+}, {
+  "characters": [
+    [
+      "J",
+      " ",
+      "P",
+      " ",
+      "H",
+      " ",
+      "V",
+      " ",
+      "W",
+      " ",
+      "Q"
+    ],
+    [
+      "E",
+      " ",
+      "R",
+      " ",
+      "O",
+      " ",
+      "A",
+      "S",
+      "H",
+      " ",
+      "U"
+    ],
+    [
+      "L",
+      "I",
+      "E",
+      " ",
+      "U",
+      " ",
+      "G",
+      " ",
+      "I",
+      " ",
+      "O"
+    ],
+    [
+      "L",
+      " ",
+      "S",
+      " ",
+      "S",
+      " ",
+      "U",
+      " ",
+      "L",
+      "O",
+      "T"
+    ],
+    [
+      "Y",
+      " ",
+      "I",
+      "C",
+      "E",
+      " ",
+      "E",
+      " ",
+      "E",
+      " ",
+      "A"
+    ],
+    [
+      "F",
+      " ",
+      "D",
+      " ",
+      "H",
+      " ",
+      " ",
+      "D",
+      " ",
+      " ",
+      "T"
+    ],
+    [
+      "I",
+      " ",
+      "E",
+      " ",
+      "O",
+      " ",
+      " ",
+      "E",
+      " ",
+      " ",
+      "I"
+    ],
+    [
+      "S",
+      "I",
+      "N",
+      "G",
+      "L",
+      "E",
+      " ",
+      "T",
+      "R",
+      "I",
+      "O"
+    ],
+    [
+      "H",
+      " ",
+      "T",
+      " ",
+      "D",
+      " ",
+      " ",
+      "A",
+      " ",
+      " ",
+      "N"
+    ],
+    [
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      "I",
+      " ",
+      " ",
+      " "
+    ],
+    [
+      "P",
+      "E",
+      "N",
+      "I",
+      "N",
+      "S",
+      "U",
+      "L",
+      "A",
+      " ",
+      " "
+    ]
+  ],
+  "numbers": [
+    [
+      1,
+      0,
+      2,
+      0,
+      3,
+      0,
+      4,
+      0,
+      5,
+      0,
+      6
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      7,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      8,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      9,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      11,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      12,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      13,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      14,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "clues": [{
+    "number": 1,
+    "clue": "Stinging invertabrate",
+    "word": "JELLYFISH",
+    "direction": "Down"
+  }, {
+    "number": 2,
+    "clue": "Leader of a country or corporation",
+    "word": "PRESIDENT",
+    "direction": "Down"
+  }, {
+    "number": 3,
+    "clue": "A family community",
+    "word": "HOUSEHOLD",
+    "direction": "Down"
+  }, {
+    "number": 4,
+    "clue": "Ambiguous",
+    "word": "VAGUE",
+    "direction": "Down"
+  }, {
+    "number": 5,
+    "clue": "WHILE",
+    "word": "WHILE",
+    "direction": "Down"
+  }, {
+    "number": 6,
+    "clue": "Something said and repeated",
+    "word": "QUOTATION",
+    "direction": "Down"
+  }, {
+    "number": 7,
+    "clue": "Left behind after a fire",
+    "word": "ASH",
+    "direction": "Across"
+  }, {
+    "number": 8,
+    "clue": "Untruth",
+    "word": "LIE",
+    "direction": "Across"
+  }, {
+    "number": 9,
+    "clue": "An area of land",
+    "word": "LOT",
+    "direction": "Across"
+  }, {
+    "number": 10,
+    "clue": "Really cold water",
+    "word": "ICE",
+    "direction": "Across"
+  }, {
+    "number": 11,
+    "clue": "Little things that make up the whole",
+    "word": "DETAIL",
+    "direction": "Down"
+  }, {
+    "number": 12,
+    "clue": "Individual",
+    "word": "SINGLE",
+    "direction": "Across"
+  }, {
+    "number": 13,
+    "clue": "A group of three",
+    "word": "TRIO",
+    "direction": "Across"
+  }, {
+    "number": 14,
+    "clue": "Florida shape",
+    "word": "PENINSULA",
+    "direction": "Across"
+  }],
+  "seed": 1601399130968,
+  "matchWord": {
+    "word": "RECURSIONS",
+    "count": 7,
+    "grid": [
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1,
+        0, -1, -1, -1, -1, -1, -1, -1, -1
+      ],
+      [-1,
+        6, -1, -1, -1, -1, -1, -1, -1, -1, -1
+      ],
+      [-1, -1, -1, -1,
+        7, -1,
+        3, -1, -1, -1, -1
+      ],
+      [-1, -1,
+        8,
+        2,
+        1, -1, -1, -1, -1, -1, -1
+      ],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [
+        9, -1, -1, -1, -1, -1, -1,
+        5,
+        4, -1, -1
+      ],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+    ]
+  }
+}, {
+  "characters": [
+    [
+      "P",
+      "E",
+      "T",
+      " ",
+      "D",
+      "I",
+      "T",
+      "C",
+      "H",
+      " ",
+      "I"
+    ],
+    [
+      "R",
+      " ",
+      "E",
+      " ",
+      "I",
+      " ",
+      "H",
+      " ",
+      "A",
+      " ",
+      "N"
+    ],
+    [
+      "O",
+      "I",
+      "L",
+      " ",
+      "F",
+      " ",
+      "O",
+      " ",
+      "M",
+      " ",
+      "S"
+    ],
+    [
+      "M",
+      " ",
+      "E",
+      " ",
+      "F",
+      " ",
+      "U",
+      " ",
+      "M",
+      "A",
+      "T"
+    ],
+    [
+      "E",
+      " ",
+      "P",
+      " ",
+      "E",
+      "G",
+      "G",
+      " ",
+      "O",
+      " ",
+      "I"
+    ],
+    [
+      "N",
+      " ",
+      "H",
+      "E",
+      "R",
+      " ",
+      "H",
+      " ",
+      "C",
+      " ",
+      "N"
+    ],
+    [
+      "A",
+      " ",
+      "O",
+      " ",
+      "E",
+      "A",
+      "T",
+      " ",
+      "K",
+      " ",
+      "C"
+    ],
+    [
+      "D",
+      "E",
+      "N",
+      " ",
+      "N",
+      " ",
+      " ",
+      "A",
+      " ",
+      " ",
+      "T"
+    ],
+    [
+      "E",
+      " ",
+      "E",
+      "A",
+      "T",
+      " ",
+      "E",
+      "X",
+      "I",
+      "T",
+      " "
+    ],
+    [
+      " ",
+      " ",
+      " ",
+      "L",
+      " ",
+      " ",
+      " ",
+      "L",
+      " ",
+      "A",
+      " "
+    ],
+    [
+      "E",
+      "V",
+      "A",
+      "L",
+      "U",
+      "A",
+      "T",
+      "E",
+      " ",
+      "P",
+      " "
+    ]
+  ],
+  "numbers": [
+    [
+      1,
+      0,
+      2,
+      0,
+      3,
+      0,
+      4,
+      0,
+      5,
+      0,
+      6
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      7,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      8,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      9,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      11,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      12,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      13,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      14,
+      15,
+      0,
+      0,
+      16,
+      0,
+      0,
+      17,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      18,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "clues": [{
+    "number": 1,
+    "clue": "A household animal",
+    "word": "PET",
+    "direction": "Across"
+  }, {
+    "number": 1,
+    "clue": "Paved walkway",
+    "word": "PROMENADE",
+    "direction": "Down"
+  }, {
+    "number": 2,
+    "clue": "A communications device",
+    "word": "TELEPHONE",
+    "direction": "Down"
+  }, {
+    "number": 3,
+    "clue": "A hole in the ground",
+    "word": "DITCH",
+    "direction": "Across"
+  }, {
+    "number": 3,
+    "clue": "Not the same",
+    "word": "DIFFERENT",
+    "direction": "Down"
+  }, {
+    "number": 4,
+    "clue": "Ponder",
+    "word": "THOUGHT",
+    "direction": "Down"
+  }, {
+    "number": 5,
+    "clue": "Netting bed",
+    "word": "HAMMOCK",
+    "direction": "Down"
+  }, {
+    "number": 6,
+    "clue": "INSTINCT",
+    "word": "INSTINCT",
+    "direction": "Down"
+  }, {
+    "number": 7,
+    "clue": "Olive, motor or baby",
+    "word": "OIL",
+    "direction": "Across"
+  }, {
+    "number": 8,
+    "clue": "Greets you at the door",
+    "word": "MAT",
+    "direction": "Across"
+  }, {
+    "number": 9,
+    "clue": "Before or after the chicken",
+    "word": "EGG",
+    "direction": "Across"
+  }, {
+    "number": 10,
+    "clue": "Feminine pronoun",
+    "word": "HER",
+    "direction": "Across"
+  }, {
+    "number": 11,
+    "clue": "Chow down",
+    "word": "EAT",
+    "direction": "Across"
+  }, {
+    "number": 12,
+    "clue": "Lion\u0027s home",
+    "word": "DEN",
+    "direction": "Across"
+  }, {
+    "number": 13,
+    "clue": "Connects the wheels on car or truck",
+    "word": "AXLE",
+    "direction": "Down"
+  }, {
+    "number": 14,
+    "clue": "Chow down",
+    "word": "EAT",
+    "direction": "Across"
+  }, {
+    "number": 15,
+    "clue": "The entirety of something",
+    "word": "ALL",
+    "direction": "Down"
+  }, {
+    "number": 16,
+    "clue": "An egress",
+    "word": "EXIT",
+    "direction": "Across"
+  }, {
+    "number": 17,
+    "clue": "Type of noisy dance",
+    "word": "TAP",
+    "direction": "Down"
+  }, {
+    "number": 18,
+    "clue": "Analyze",
+    "word": "EVALUATE",
+    "direction": "Across"
+  }],
+  "seed": 1601399132276,
+  "matchWord": {
+    "word": "VARLETRIES",
+    "count": 8,
+    "grid": [
+      [-1, -1, -1, -1,
+        9, -1, -1, -1, -1, -1, -1
+      ],
+      [
+        2, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+      ],
+      [-1,
+        7, -1, -1, -1, -1, -1, -1, -1, -1, -1
+      ],
+      [-1, -1,
+        4, -1, -1, -1, -1, -1, -1, -1, -1
+      ],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1,
+        6, -1, -1, -1,
+        1, -1, -1
+      ],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+        5
+      ],
+      [
+        8, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+      ],
+      [-1, -1, -1, -1, -1, -1, -1,
+        3, -1, -1, -1
+      ],
+      [-1,
+        0, -1, -1, -1, -1, -1, -1, -1, -1, -1
+      ]
+    ]
+  }
+}, {
+  "characters": [
+    [
+      "S",
+      " ",
+      "G",
+      " ",
+      "F",
+      " ",
+      "S",
+      "A",
+      "W",
+      " ",
+      "U"
+    ],
+    [
+      "C",
+      " ",
+      "E",
+      " ",
+      "O",
+      " ",
+      "C",
+      " ",
+      "A",
+      " ",
+      "N"
+    ],
+    [
+      "U",
+      " ",
+      "N",
+      " ",
+      "S",
+      " ",
+      "R",
+      " ",
+      "L",
+      " ",
+      "B"
+    ],
+    [
+      "L",
+      " ",
+      "E",
+      " ",
+      "S",
+      "N",
+      "A",
+      "I",
+      "L",
+      " ",
+      "R"
+    ],
+    [
+      "P",
+      "A",
+      "R",
+      " ",
+      "I",
+      " ",
+      "P",
+      " ",
+      "P",
+      " ",
+      "O"
+    ],
+    [
+      "T",
+      " ",
+      "A",
+      " ",
+      "L",
+      "I",
+      "E",
+      " ",
+      "A",
+      " ",
+      "K"
+    ],
+    [
+      "U",
+      " ",
+      "L",
+      " ",
+      " ",
+      "T",
+      " ",
+      " ",
+      "P",
+      "I",
+      "E"
+    ],
+    [
+      "R",
+      " ",
+      " ",
+      "S",
+      " ",
+      "E",
+      "L",
+      "S",
+      "E",
+      " ",
+      "N"
+    ],
+    [
+      "E",
+      "S",
+      "T",
+      "E",
+      "E",
+      "M",
+      " ",
+      "A",
+      "R",
+      "T",
+      " "
+    ],
+    [
+      " ",
+      " ",
+      " ",
+      "E",
+      " ",
+      " ",
+      " ",
+      "N",
+      " ",
+      "R",
+      " "
+    ],
+    [
+      "W",
+      "O",
+      "R",
+      "K",
+      "L",
+      "O",
+      "A",
+      "D",
+      " ",
+      "Y",
+      " "
+    ]
+  ],
+  "numbers": [
+    [
+      1,
+      0,
+      2,
+      0,
+      3,
+      0,
+      4,
+      0,
+      5,
+      0,
+      6
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      7,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      8,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      9,
+      10,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      11,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      12,
+      0,
+      13,
+      0,
+      14,
+      0,
+      0,
+      0
+    ],
+    [
+      15,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      16,
+      0,
+      17,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      18,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "clues": [{
+    "number": 1,
+    "clue": "Carved art",
+    "word": "SCULPTURE",
+    "direction": "Down"
+  }, {
+    "number": 2,
+    "clue": "Leader of an Army",
+    "word": "GENERAL",
+    "direction": "Down"
+  }, {
+    "number": 3,
+    "clue": "Old bones",
+    "word": "FOSSIL",
+    "direction": "Down"
+  }, {
+    "number": 4,
+    "clue": "Tool for cutting",
+    "word": "SAW",
+    "direction": "Across"
+  }, {
+    "number": 4,
+    "clue": "Abrasion",
+    "word": "SCRAPE",
+    "direction": "Down"
+  }, {
+    "number": 5,
+    "clue": "Alternative to paint",
+    "word": "WALLPAPER",
+    "direction": "Down"
+  }, {
+    "number": 6,
+    "clue": "In good shape",
+    "word": "UNBROKEN",
+    "direction": "Down"
+  }, {
+    "number": 7,
+    "clue": "Escargot",
+    "word": "SNAIL",
+    "direction": "Across"
+  }, {
+    "number": 8,
+    "clue": "Average",
+    "word": "PAR",
+    "direction": "Across"
+  }, {
+    "number": 9,
+    "clue": "Untruth",
+    "word": "LIE",
+    "direction": "Across"
+  }, {
+    "number": 10,
+    "clue": "An single unit",
+    "word": "ITEM",
+    "direction": "Down"
+  }, {
+    "number": 11,
+    "clue": "Apple, cherry or kidney",
+    "word": "PIE",
+    "direction": "Across"
+  }, {
+    "number": 12,
+    "clue": "To look for",
+    "word": "SEEK",
+    "direction": "Down"
+  }, {
+    "number": 13,
+    "clue": "Alternative",
+    "word": "ELSE",
+    "direction": "Across"
+  }, {
+    "number": 14,
+    "clue": "All over the beach",
+    "word": "SAND",
+    "direction": "Down"
+  }, {
+    "number": 15,
+    "clue": "Regard",
+    "word": "ESTEEM",
+    "direction": "Across"
+  }, {
+    "number": 16,
+    "clue": "A Picasso or Garfunkel",
+    "word": "ART",
+    "direction": "Across"
+  }, {
+    "number": 17,
+    "clue": "Attempt",
+    "word": "TRY",
+    "direction": "Down"
+  }, {
+    "number": 18,
+    "clue": "Full task list",
+    "word": "WORKLOAD",
+    "direction": "Across"
+  }],
+  "seed": 1601399133544,
+  "matchWord": {
+    "word": "GEOTECHNIC",
+    "count": 8,
+    "grid": [
+      [-1, -1,
+        0, -1, -1, -1, -1, -1, -1, -1, -1
+      ],
+      [-1, -1, -1, -1, -1, -1,
+        9, -1, -1, -1,
+        7
+      ],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1,
+        8, -1,
+        5, -1, -1, -1, -1
+      ],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1, -1,
+        1, -1, -1, -1, -1, -1
+      ],
+      [
+        4, -1,
+        3, -1, -1, -1, -1, -1, -1, -1, -1
+      ],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [
+        6,
+        2, -1, -1, -1, -1, -1, -1, -1, -1, -1
+      ]
+    ]
+  }
+}, {
+  "characters": [
+    [
+      "U",
+      " ",
+      "S",
+      " ",
+      "H",
+      " ",
+      "L",
+      " ",
+      "S",
+      " ",
+      "P"
+    ],
+    [
+      "N",
+      " ",
+      "I",
+      " ",
+      "Y",
+      " ",
+      "O",
+      " ",
+      "H",
+      " ",
+      "E"
+    ],
+    [
+      "D",
+      " ",
+      "D",
+      " ",
+      "D",
+      "O",
+      "T",
+      " ",
+      "U",
+      " ",
+      "R"
+    ],
+    [
+      "E",
+      " ",
+      "E",
+      "A",
+      "R",
+      " ",
+      "T",
+      " ",
+      "T",
+      " ",
+      "S"
+    ],
+    [
+      "R",
+      "U",
+      "B",
+      " ",
+      "A",
+      "G",
+      "E",
+      "N",
+      "T",
+      " ",
+      "O"
+    ],
+    [
+      "P",
+      " ",
+      "U",
+      " ",
+      "U",
+      " ",
+      "R",
+      " ",
+      "E",
+      " ",
+      "N"
+    ],
+    [
+      "A",
+      "I",
+      "R",
+      " ",
+      "L",
+      " ",
+      "Y",
+      " ",
+      "R",
+      " ",
+      "A"
+    ],
+    [
+      "S",
+      " ",
+      "N",
+      "A",
+      "I",
+      "L",
+      " ",
+      "M",
+      " ",
+      " ",
+      "L"
+    ],
+    [
+      "S",
+      " ",
+      "S",
+      " ",
+      "C",
+      " ",
+      "R",
+      "U",
+      "I",
+      "N",
+      " "
+    ],
+    [
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      "L",
+      " ",
+      "E",
+      " "
+    ],
+    [
+      "E",
+      "V",
+      "A",
+      "L",
+      "U",
+      "A",
+      "T",
+      "E",
+      " ",
+      "T",
+      " "
+    ]
+  ],
+  "numbers": [
+    [
+      1,
+      0,
+      2,
+      0,
+      3,
+      0,
+      4,
+      0,
+      5,
+      0,
+      6
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      7,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      8,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      9,
+      0,
+      0,
+      0,
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      11,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      12,
+      0,
+      0,
+      0,
+      0,
+      13,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      14,
+      0,
+      0,
+      15,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      16,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "clues": [{
+    "number": 1,
+    "clue": "Road below another road",
+    "word": "UNDERPASS",
+    "direction": "Down"
+  }, {
+    "number": 2,
+    "clue": "Side facial hair",
+    "word": "SIDEBURNS",
+    "direction": "Down"
+  }, {
+    "number": 3,
+    "clue": "Simple machine to raise",
+    "word": "HYDRAULIC",
+    "direction": "Down"
+  }, {
+    "number": 4,
+    "clue": "Game of chance",
+    "word": "LOTTERY",
+    "direction": "Down"
+  }, {
+    "number": 5,
+    "clue": "Shield from light",
+    "word": "SHUTTER",
+    "direction": "Down"
+  }, {
+    "number": 6,
+    "clue": "Something private to an individual",
+    "word": "PERSONAL",
+    "direction": "Down"
+  }, {
+    "number": 7,
+    "clue": "Connect to make a picture",
+    "word": "DOT",
+    "direction": "Across"
+  }, {
+    "number": 8,
+    "clue": "Of corn or to hear",
+    "word": "EAR",
+    "direction": "Across"
+  }, {
+    "number": 9,
+    "clue": "Season for ribs or steak",
+    "word": "RUB",
+    "direction": "Across"
+  }, {
+    "number": 10,
+    "clue": "A spy is a secret ...",
+    "word": "AGENT",
+    "direction": "Across"
+  }, {
+    "number": 11,
+    "clue": "A breath of fresh ...",
+    "word": "AIR",
+    "direction": "Across"
+  }, {
+    "number": 12,
+    "clue": "Finger or finishing",
+    "word": "NAIL",
+    "direction": "Across"
+  }, {
+    "number": 13,
+    "clue": "A small donkey",
+    "word": "MULE",
+    "direction": "Down"
+  }, {
+    "number": 14,
+    "clue": "To destroy",
+    "word": "RUIN",
+    "direction": "Across"
+  }, {
+    "number": 15,
+    "clue": "Fishing, safety or hair",
+    "word": "NET",
+    "direction": "Down"
+  }, {
+    "number": 16,
+    "clue": "Analyze",
+    "word": "EVALUATE",
+    "direction": "Across"
+  }],
+  "seed": 1601399134789,
+  "matchWord": {
+    "word": "PERIGONIAL",
+    "count": 9,
+    "grid": [
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1,
+        7, -1, -1, -1, -1, -1, -1, -1, -1
+      ],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1,
+        8,
+        4, -1, -1, -1, -1, -1
+      ],
+      [
+        0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+      ],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1,
+        6, -1, -1, -1, -1, -1, -1, -1,
+        9
+      ],
+      [-1, -1, -1, -1, -1, -1,
+        2, -1,
+        3, -1, -1
+      ],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [
+        1, -1, -1, -1, -1, -1, -1,
+        5, -1, -1, -1
+      ]
+    ]
+  }
+}, {
+  "characters": [
+    [
+      "S",
+      " ",
+      "S",
+      "I",
+      "R",
+      " ",
+      "R",
+      " ",
+      "S",
+      " ",
+      "R"
+    ],
+    [
+      "I",
+      " ",
+      "H",
+      " ",
+      "A",
+      "W",
+      "E",
+      " ",
+      "C",
+      " ",
+      "O"
+    ],
+    [
+      "T",
+      " ",
+      "I",
+      " ",
+      "S",
+      " ",
+      "C",
+      "H",
+      "A",
+      "R",
+      "T"
+    ],
+    [
+      "U",
+      " ",
+      "P",
+      "O",
+      "P",
+      " ",
+      "O",
+      " ",
+      "L",
+      " ",
+      "A"
+    ],
+    [
+      "A",
+      " ",
+      "W",
+      " ",
+      "B",
+      " ",
+      "V",
+      "A",
+      "L",
+      "E",
+      "T"
+    ],
+    [
+      "T",
+      "H",
+      "R",
+      "E",
+      "E",
+      " ",
+      "E",
+      " ",
+      "O",
+      " ",
+      "I"
+    ],
+    [
+      "I",
+      " ",
+      "E",
+      " ",
+      "R",
+      " ",
+      "R",
+      "A",
+      "P",
+      " ",
+      "O"
+    ],
+    [
+      "O",
+      " ",
+      "C",
+      " ",
+      "R",
+      " ",
+      " ",
+      "M",
+      " ",
+      " ",
+      "N"
+    ],
+    [
+      "N",
+      " ",
+      "K",
+      "E",
+      "Y",
+      " ",
+      " ",
+      "U",
+      " ",
+      "H",
+      " "
+    ],
+    [
+      " ",
+      " ",
+      " ",
+      "N",
+      " ",
+      " ",
+      " ",
+      "S",
+      "K",
+      "I",
+      "N"
+    ],
+    [
+      "G",
+      "R",
+      "A",
+      "D",
+      "U",
+      "A",
+      "T",
+      "E",
+      " ",
+      "P",
+      " "
+    ]
+  ],
+  "numbers": [
+    [
+      1,
+      0,
+      2,
+      0,
+      3,
+      0,
+      4,
+      0,
+      5,
+      0,
+      6
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      7,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      8,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      9,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      10,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      11,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      12,
+      13,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      14,
+      15,
+      0,
+      0,
+      0,
+      0,
+      0,
+      16,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      17,
+      0,
+      0,
+      0
+    ],
+    [
+      18,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "clues": [{
+    "number": 1,
+    "clue": "A type of comedy",
+    "word": "SITUATION",
+    "direction": "Down"
+  }, {
+    "number": 2,
+    "clue": "Formal greeting",
+    "word": "SIR",
+    "direction": "Across"
+  }, {
+    "number": 2,
+    "clue": "Sunken boat",
+    "word": "SHIPWRECK",
+    "direction": "Down"
+  }, {
+    "number": 3,
+    "clue": "Small seeded fruit",
+    "word": "RASPBERRY",
+    "direction": "Down"
+  }, {
+    "number": 4,
+    "clue": "To come back healthy",
+    "word": "RECOVER",
+    "direction": "Down"
+  }, {
+    "number": 5,
+    "clue": "A bivalve",
+    "word": "SCALLOP",
+    "direction": "Down"
+  }, {
+    "number": 6,
+    "clue": "To go 360 degrees",
+    "word": "ROTATION",
+    "direction": "Down"
+  }, {
+    "number": 7,
+    "clue": "Stunned amazement",
+    "word": "AWE",
+    "direction": "Across"
+  }, {
+    "number": 8,
+    "clue": "A graph that shows patterns over time",
+    "word": "CHART",
+    "direction": "Across"
+  }, {
+    "number": 9,
+    "clue": "Break a balloon",
+    "word": "POP",
+    "direction": "Across"
+  }, {
+    "number": 10,
+    "clue": "Parks your car",
+    "word": "VALET",
+    "direction": "Across"
+  }, {
+    "number": 11,
+    "clue": "Need to make a trio",
+    "word": "THREE",
+    "direction": "Across"
+  }, {
+    "number": 12,
+    "clue": "Type of music",
+    "word": "RAP",
+    "direction": "Across"
+  }, {
+    "number": 13,
+    "clue": "To do something funny",
+    "word": "AMUSE",
+    "direction": "Down"
+  }, {
+    "number": 14,
+    "clue": "Need to unlock",
+    "word": "KEY",
+    "direction": "Across"
+  }, {
+    "number": 15,
+    "clue": "Final",
+    "word": "END",
+    "direction": "Down"
+  }, {
+    "number": 16,
+    "clue": "Comes before hop",
+    "word": "HIP",
+    "direction": "Down"
+  }, {
+    "number": 17,
+    "clue": "External layer",
+    "word": "SKIN",
+    "direction": "Across"
+  }, {
+    "number": 18,
+    "clue": "Finished school",
+    "word": "GRADUATE",
+    "direction": "Across"
+  }],
+  "seed": 1601399136055,
+  "matchWord": {
+    "word": "CATHARTICS",
+    "count": 9,
+    "grid": [
+      [
+        9, -1, -1,
+        7, -1, -1, -1, -1, -1, -1, -1
+      ],
+      [-1, -1,
+        3, -1, -1, -1, -1, -1,
+        8, -1, -1
+      ],
+      [-1, -1, -1, -1, -1, -1,
+        0, -1, -1, -1, -1
+      ],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+        4
+      ],
+      [
+        1, -1, -1, -1, -1, -1, -1,
+        5, -1, -1,
+        6
+      ],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1, -1, -1,
+        2, -1, -1, -1, -1
+      ]
+    ]
+  }
+}, {
+  "characters": [
+    [
+      "T",
+      "E",
+      "A",
+      "C",
+      "H",
+      " ",
+      "T",
+      " ",
+      "C",
+      " ",
+      "P"
+    ],
+    [
+      "R",
+      " ",
+      "N",
+      " ",
+      "A",
+      " ",
+      "W",
+      "E",
+      "A",
+      "V",
+      "E"
+    ],
+    [
+      "A",
+      " ",
+      "N",
+      " ",
+      "N",
+      " ",
+      "E",
+      " ",
+      "N",
+      " ",
+      "R"
+    ],
+    [
+      "N",
+      " ",
+      "U",
+      " ",
+      "D",
+      " ",
+      "E",
+      " ",
+      "D",
+      " ",
+      "S"
+    ],
+    [
+      "S",
+      "H",
+      "A",
+      "L",
+      "L",
+      " ",
+      "D",
+      "A",
+      "Y",
+      " ",
+      "O"
+    ],
+    [
+      "P",
+      " ",
+      "L",
+      " ",
+      "E",
+      " ",
+      " ",
+      "T",
+      " ",
+      " ",
+      "N"
+    ],
+    [
+      "O",
+      " ",
+      " ",
+      "T",
+      " ",
+      "H",
+      "U",
+      "T",
+      " ",
+      " ",
+      "A"
+    ],
+    [
+      "R",
+      " ",
+      " ",
+      "R",
+      " ",
+      "O",
+      " ",
+      "E",
+      " ",
+      " ",
+      "L"
+    ],
+    [
+      "T",
+      " ",
+      "S",
+      "O",
+      "U",
+      "R",
+      " ",
+      "M",
+      " ",
+      "T",
+      " "
+    ],
+    [
+      " ",
+      " ",
+      " ",
+      "O",
+      " ",
+      "S",
+      " ",
+      "P",
+      "E",
+      "A",
+      "R"
+    ],
+    [
+      "S",
+      "H",
+      "I",
+      "P",
+      "M",
+      "E",
+      "N",
+      "T",
+      " ",
+      "P",
+      " "
+    ]
+  ],
+  "numbers": [
+    [
+      1,
+      0,
+      2,
+      0,
+      3,
+      0,
+      4,
+      0,
+      5,
+      0,
+      6
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      7,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      8,
+      0,
+      0,
+      0,
+      0,
+      0,
+      9,
+      10,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      11,
+      0,
+      12,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      13,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      14,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      15,
+      0,
+      0,
+      0
+    ],
+    [
+      16,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "clues": [{
+    "number": 1,
+    "clue": "Help someone learn",
+    "word": "TEACH",
+    "direction": "Across"
+  }, {
+    "number": 1,
+    "clue": "Carry a distance",
+    "word": "TRANSPORT",
+    "direction": "Down"
+  }, {
+    "number": 2,
+    "clue": "Yearly",
+    "word": "ANNUAL",
+    "direction": "Down"
+  }, {
+    "number": 3,
+    "clue": "Helps to carry",
+    "word": "HANDLE",
+    "direction": "Down"
+  }, {
+    "number": 4,
+    "clue": "Thick wool suit",
+    "word": "TWEED",
+    "direction": "Down"
+  }, {
+    "number": 5,
+    "clue": "Cane, corn or apple",
+    "word": "CANDY",
+    "direction": "Down"
+  }, {
+    "number": 6,
+    "clue": "Something private to someone",
+    "word": "PERSONAL",
+    "direction": "Down"
+  }, {
+    "number": 7,
+    "clue": "To braid fabric",
+    "word": "WEAVE",
+    "direction": "Across"
+  }, {
+    "number": 8,
+    "clue": "This too ____ pass",
+    "word": "SHALL",
+    "direction": "Across"
+  }, {
+    "number": 9,
+    "clue": "24 hours",
+    "word": "DAY",
+    "direction": "Across"
+  }, {
+    "number": 10,
+    "clue": "To try",
+    "word": "ATTEMPT",
+    "direction": "Down"
+  }, {
+    "number": 11,
+    "clue": "A group of soldiers",
+    "word": "TROOP",
+    "direction": "Down"
+  }, {
+    "number": 12,
+    "clue": "Jabba, sunglasses or pizza",
+    "word": "HUT",
+    "direction": "Across"
+  }, {
+    "number": 12,
+    "clue": "Mode of transportation",
+    "word": "HORSE",
+    "direction": "Down"
+  }, {
+    "number": 13,
+    "clue": "Taste that makes you pucker",
+    "word": "SOUR",
+    "direction": "Across"
+  }, {
+    "number": 14,
+    "clue": "Noisy type of dance",
+    "word": "TAP",
+    "direction": "Down"
+  }, {
+    "number": 15,
+    "clue": "Fruit and diamond shape",
+    "word": "PEAR",
+    "direction": "Across"
+  }, {
+    "number": 16,
+    "clue": "A delivery",
+    "word": "SHIPMENT",
+    "direction": "Across"
+  }],
+  "seed": 1601399254663,
+  "matchWord": {
+    "word": "STREWMENTS",
+    "count": 10,
+    "grid": [
+      [
+        8, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+      ],
+      [-1, -1, -1, -1, -1, -1,
+        4, -1, -1, -1, -1
+      ],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1,
+        6, -1, -1, -1, -1, -1,
+        7
+      ],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1,
+        9, -1, -1, -1, -1, -1, -1,
+        1, -1
+      ],
+      [-1, -1, -1, -1, -1, -1, -1, -1,
+        3, -1,
+        2
+      ],
+      [
+        0, -1, -1, -1,
+        5, -1, -1, -1, -1, -1, -1
+      ]
+    ]
+  }
+}, {
+  "characters": [
+    [
+      "C",
+      " ",
+      "E",
+      "N",
+      "D",
+      " ",
+      "A",
+      " ",
+      "A",
+      " ",
+      "S"
+    ],
+    [
+      "H",
+      " ",
+      "X",
+      " ",
+      "I",
+      " ",
+      "U",
+      " ",
+      "C",
+      " ",
+      "U"
+    ],
+    [
+      "O",
+      " ",
+      "P",
+      " ",
+      "S",
+      "E",
+      "T",
+      " ",
+      "C",
+      " ",
+      "B"
+    ],
+    [
+      "C",
+      " ",
+      "E",
+      " ",
+      "C",
+      " ",
+      "O",
+      " ",
+      "U",
+      " ",
+      "M"
+    ],
+    [
+      "O",
+      "W",
+      "N",
+      " ",
+      "U",
+      " ",
+      "M",
+      " ",
+      "R",
+      " ",
+      "E"
+    ],
+    [
+      "L",
+      " ",
+      "S",
+      " ",
+      "S",
+      "E",
+      "A",
+      " ",
+      "A",
+      "I",
+      "R"
+    ],
+    [
+      "A",
+      "G",
+      "E",
+      " ",
+      "S",
+      " ",
+      "T",
+      " ",
+      "T",
+      " ",
+      "G"
+    ],
+    [
+      "T",
+      " ",
+      " ",
+      "M",
+      " ",
+      " ",
+      "I",
+      " ",
+      "E",
+      "Y",
+      "E"
+    ],
+    [
+      "E",
+      " ",
+      "N",
+      "O",
+      "T",
+      "I",
+      "C",
+      "E",
+      " ",
+      "O",
+      " "
+    ],
+    [
+      " ",
+      " ",
+      " ",
+      "T",
+      " ",
+      " ",
+      " ",
+      " ",
+      "S",
+      "L",
+      "Y"
+    ],
+    [
+      "M",
+      "U",
+      "S",
+      "H",
+      "R",
+      "O",
+      "O",
+      "M",
+      " ",
+      "K",
+      " "
+    ]
+  ],
+  "numbers": [
+    [
+      1,
+      0,
+      2,
+      0,
+      3,
+      0,
+      4,
+      0,
+      5,
+      0,
+      6
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      7,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      8,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      9,
+      0,
+      0,
+      0,
+      10,
+      0,
+      0
+    ],
+    [
+      11,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      12,
+      0,
+      0,
+      0,
+      0,
+      13,
+      14,
+      0
+    ],
+    [
+      0,
+      0,
+      15,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      16,
+      0,
+      0
+    ],
+    [
+      17,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "clues": [{
+    "number": 1,
+    "clue": "It comes in white, milk, and dark",
+    "word": "CHOCOLATE",
+    "direction": "Down"
+  }, {
+    "number": 2,
+    "clue": "Finish",
+    "word": "END",
+    "direction": "Across"
+  }, {
+    "number": 2,
+    "clue": "A cost",
+    "word": "EXPENSE",
+    "direction": "Down"
+  }, {
+    "number": 3,
+    "clue": "A chat over a topic",
+    "word": "DISCUSS",
+    "direction": "Down"
+  }, {
+    "number": 4,
+    "clue": "Operates on its own without prompting",
+    "word": "AUTOMATIC",
+    "direction": "Down"
+  }, {
+    "number": 5,
+    "clue": "Done with precision",
+    "word": "ACCURATE",
+    "direction": "Down"
+  }, {
+    "number": 6,
+    "clue": "Go under water",
+    "word": "SUBMERGE",
+    "direction": "Down"
+  }, {
+    "number": 7,
+    "clue": "Prepare a table",
+    "word": "SET",
+    "direction": "Across"
+  }, {
+    "number": 8,
+    "clue": "To take possession",
+    "word": "OWN",
+    "direction": "Across"
+  }, {
+    "number": 9,
+    "clue": "The ocean",
+    "word": "SEA",
+    "direction": "Across"
+  }, {
+    "number": 10,
+    "clue": "A breath of fresh ...",
+    "word": "AIR",
+    "direction": "Across"
+  }, {
+    "number": 11,
+    "clue": "Number of years you\u0027ve been alive",
+    "word": "AGE",
+    "direction": "Across"
+  }, {
+    "number": 12,
+    "clue": "Attracted to a flame",
+    "word": "MOTH",
+    "direction": "Down"
+  }, {
+    "number": 13,
+    "clue": "Of a storm",
+    "word": "EYE",
+    "direction": "Across"
+  }, {
+    "number": 14,
+    "clue": "Harness for oxen",
+    "word": "YOLK",
+    "direction": "Down"
+  }, {
+    "number": 15,
+    "clue": "A warning",
+    "word": "NOTICE",
+    "direction": "Across"
+  }, {
+    "number": 16,
+    "clue": "Shifty",
+    "word": "SLY",
+    "direction": "Across"
+  }, {
+    "number": 17,
+    "clue": "A fungus",
+    "word": "MUSHROOM",
+    "direction": "Across"
+  }],
+  "seed": 1601399256534,
+  "matchWord": {
+    "word": "PENNATULAE",
+    "count": 10,
+    "grid": [
+      [-1, -1, -1,
+        2, -1, -1, -1, -1,
+        4, -1, -1
+      ],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1,
+        0, -1, -1, -1,
+        5, -1, -1, -1, -1
+      ],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1,
+        6, -1, -1, -1, -1, -1, -1
+      ],
+      [
+        7, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+      ],
+      [
+        8, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
+      ],
+      [-1, -1, -1, -1, -1, -1, -1, -1,
+        1, -1,
+        9
+      ],
+      [-1, -1,
+        3, -1, -1, -1, -1, -1, -1, -1, -1
+      ],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+      [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+    ]
+  }
+}]

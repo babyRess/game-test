@@ -1,0 +1,11 @@
+{
+    "sheets": [
+        { 
+            "coordinatesFileName": "CCCommon.plist",
+            "textureFileName": "CCCommon.png",
+            "width": 1873.0,
+            "height": 1388.0
+        }
+    ],
+    "signature": "e19f1562888a529b5b57a4ccf41c64fd5bc3e71d"
+}

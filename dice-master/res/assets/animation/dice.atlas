@@ -1,0 +1,48 @@
+
+dice.png
+size: 518,518
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MX Ludo/骰子/1
+  rotate: false
+  xy: 2, 346
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+MX Ludo/骰子/2
+  rotate: false
+  xy: 2, 174
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+MX Ludo/骰子/3
+  rotate: false
+  xy: 174, 346
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+MX Ludo/骰子/4
+  rotate: false
+  xy: 2, 2
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+MX Ludo/骰子/5
+  rotate: false
+  xy: 174, 174
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+MX Ludo/骰子/6
+  rotate: false
+  xy: 346, 346
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1

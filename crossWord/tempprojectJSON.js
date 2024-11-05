@@ -1,0 +1,1 @@
+(function configloader(){ document["ccConfig"] ={"debugMode":1,"frameRate":60,"showFPS":false,"id":"gameCanvas","renderMode":0,"jsList":[]}})();

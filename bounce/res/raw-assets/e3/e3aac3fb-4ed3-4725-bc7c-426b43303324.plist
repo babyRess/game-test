@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>absolutePosition</key>
+    <false/>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>angleVariance</key>
+    <integer>360</integer>
+    <key>blendFuncDestination</key>
+    <integer>771</integer>
+    <key>blendFuncSource</key>
+    <integer>1</integer>
+    <key>configName</key>
+    <string>HighScoreParticle
+
+
+
+HighScoreParticle
+
+
+
+HighScoreParticle
+
+
+
+HighScoreParticle
+
+
+HighScoreParticle
+
+</string>
+    <key>duration</key>
+    <integer>7</integer>
+    <key>emitterType</key>
+    <integer>0</integer>
+    <key>finishColorAlpha</key>
+    <integer>1</integer>
+    <key>finishColorBlue</key>
+    <real>0.9423094987869263</real>
+    <key>finishColorGreen</key>
+    <real>0.9944234490394592</real>
+    <key>finishColorRed</key>
+    <real>0.9392765164375305</real>
+    <key>finishColorVarianceAlpha</key>
+    <integer>0</integer>
+    <key>finishColorVarianceBlue</key>
+    <integer>1</integer>
+    <key>finishColorVarianceGreen</key>
+    <integer>1</integer>
+    <key>finishColorVarianceRed</key>
+    <integer>1</integer>
+    <key>finishParticleSize</key>
+    <integer>20</integer>
+    <key>finishParticleSizeVariance</key>
+    <integer>5</integer>
+    <key>gravityx</key>
+    <integer>0</integer>
+    <key>gravityy</key>
+    <integer>-180</integer>
+    <key>maxParticles</key>
+    <integer>304</integer>
+    <key>maxRadius</key>
+    <integer>0</integer>
+    <key>maxRadiusVariance</key>
+    <integer>0</integer>
+    <key>minRadius</key>
+    <integer>300</integer>
+    <key>minRadiusVariance</key>
+    <integer>0</integer>
+    <key>particleLifespan</key>
+    <real>1.55</real>
+    <key>particleLifespanVariance</key>
+    <integer>0</integer>
+    <key>positionType</key>
+    <integer>0</integer>
+    <key>radialAccelVariance</key>
+    <integer>70</integer>
+    <key>radialAcceleration</key>
+    <integer>10</integer>
+    <key>rotatePerSecond</key>
+    <integer>360</integer>
+    <key>rotatePerSecondVariance</key>
+    <integer>0</integer>
+    <key>rotationEnd</key>
+    <integer>0</integer>
+    <key>rotationEndVariance</key>
+    <integer>300</integer>
+    <key>rotationStart</key>
+    <integer>0</integer>
+    <key>rotationStartVariance</key>
+    <integer>0</integer>
+    <key>sourcePositionVariancex</key>
+    <integer>247</integer>
+    <key>sourcePositionVariancey</key>
+    <integer>1</integer>
+    <key>sourcePositionx</key>
+    <integer>160</integer>
+    <key>sourcePositiony</key>
+    <integer>240</integer>
+    <key>speed</key>
+    <integer>1</integer>
+    <key>speedVariance</key>
+    <integer>0</integer>
+    <key>startColorAlpha</key>
+    <integer>1</integer>
+    <key>startColorBlue</key>
+    <real>0.9967625737190247</real>
+    <key>startColorGreen</key>
+    <real>0.9996854662895203</real>
+    <key>startColorRed</key>
+    <real>0.9960498213768005</real>
+    <key>startColorVarianceAlpha</key>
+    <integer>0</integer>
+    <key>startColorVarianceBlue</key>
+    <integer>1</integer>
+    <key>startColorVarianceGreen</key>
+    <integer>1</integer>
+    <key>startColorVarianceRed</key>
+    <integer>1</integer>
+    <key>startParticleSize</key>
+    <integer>10</integer>
+    <key>startParticleSizeVariance</key>
+    <integer>20</integer>
+    <key>tangentialAccelVariance</key>
+    <integer>0</integer>
+    <key>tangentialAcceleration</key>
+    <integer>0</integer>
+    <key>textureImageData</key>
+    <string>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</string>
+    <key>yCoordFlipped</key>
+    <integer>1</integer>
+  </dict>
+</plist>

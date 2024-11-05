@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>CROSS WORD</title>
+    <meta name="viewport"
+        content="width=device-width,user-scalable=no,initial-scale=1, minimum-scale=1,maximum-scale=1"/>
+
+    <!--https://developer.apple.com/library/safari/documentation/AppleApplications/Reference/SafariHTMLRef/Articles/MetaTags.html-->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="format-detection" content="telephone=no">
+
+    <!-- force webkit on 360 -->
+    <meta name="renderer" content="webkit"/>
+    <meta name="force-rendering" content="webkit"/>
+    <!-- force edge on IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta name="msapplication-tap-highlight" content="no">
+
+    <!-- force full screen on some browser -->
+    <meta name="full-screen" content="false"/>
+    <meta name="x5-fullscreen" content="false"/>
+    <meta name="360-fullscreen" content="false"/>
+
+    <!-- force screen orientation on some browser -->
+    <!-- <meta name="screen-orientation" content="portrait"/>
+    <meta name="x5-orientation" content="portrait"> -->
+
+    <meta name="browsermode" content="application">
+    <meta name="x5-page-mode" content="app">
+
+<link id="game-style" rel="stylesheet" href="game.css">
+</head>
+<body>
+  <canvas id="gameCanvas" width="500" height="720" style="display:none;"></canvas>
+
+<!-- progressbar -->
+  <div id="myProgress">
+    <div id="myBar"></div>
+  </div>
+<!-- progress label -->
+<p id="myProgresslabel"></p>
+
+<!-- back button -->
+<a onclick="onBackButtonClick()" href="#" id="close-image"><img id="close-image1"></img></a>
+
+<!-- bg -->
+<img id="backGroundImage">
+<!-- gradient -->
+<div id="grad1"></div>
+
+<!--loading script-->
+<script>
+var progressId = 10;
+
+
+var urlString = window.location.href;
+var urlParams = parseURLParams(urlString);
+if (typeof urlParams === 'undefined')
+{
+  urlString ="http://0.0.0.0:3000/?mode=FUN";//LOTTERY
+  urlParams = parseURLParams(urlString);//CRAZY_CANNON
+}
+
+var gameTokens = {
+  "mode" : urlParams.mode[0],
+}
+changeBg();
+
+function changeBg() {
+  // document.getElementById('myProgresslabel').innerHTML = urlParams.loadingMessage[0];
+  if (window.innerWidth > window.innerHeight)
+  document.getElementById('backGroundImage').src = "res/landscape/loadingImage.png";
+  else
+  document.getElementById('backGroundImage').src = "res/portrait/loadingImage.png";
+  // document.getElementById('close-image1').src = "https://img1a.flixcart.com/linchpin-web/batman-returns/closeIcon-e6e7ac55.png";
+}
+
+function parseURLParams(url) {
+  var queryStart = url.indexOf("?") + 1,
+    queryEnd = url.indexOf("#") + 1 || url.length + 1,
+    query = url.slice(queryStart, queryEnd - 1),
+    pairs = query.replace(/\+/g, " ").split("&"),
+    parms = {},
+    i, n, v, nv;
+
+  if (query === url || query === "") return;
+
+  for (i = 0; i < pairs.length; i++) {
+    nv = pairs[i].split("=", 2);
+    n = decodeURIComponent(nv[0]);
+    v = decodeURIComponent(nv[1]);
+
+    if (!parms.hasOwnProperty(n))
+      parms[n] = [];
+    parms[n].push(nv.length === 2 ? v : null);
+  }
+  return parms;
+}
+// cssSomethingWentWrongPopup();
+
+move();
+
+function cssSomethingWentWrongPopup(msg) {
+
+  // Get the modal
+  var modal = document.getElementById("myModal");
+  modal.style.display = "block";
+
+  document.getElementById("errorMsg").innerHTML = msg;
+}
+
+function move() {
+  var elem = document.getElementById("myBar");
+  var width = 1;
+  progressId = setInterval(frame, 10);
+
+  function frame() {
+    if (width >= 10) {
+      clearInterval(progressId);
+    } else {
+      width = width + 0.1;
+      elem.style.width = width + '%';
+    }
+  }
+}
+</script>
+
+
+<!-- build:gameEngine -->
+<!-- <script defer src="https://img1a.flixcart.com/linchpin-web/batman-returns/cocos2d-js-v3.13.js" crossorigin="anonymous"></script> -->
+
+<script defer id="game-source" src="game.js" crossorigin="anonymous"></script>
+
+
+</body>
+</html>
